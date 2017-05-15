@@ -1,0 +1,9 @@
+*~
+.*
+*.iml
+target
+temp/
+
+# exceptions
+!.gitignore
+!.mvn
