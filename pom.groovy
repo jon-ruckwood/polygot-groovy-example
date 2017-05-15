@@ -21,6 +21,7 @@ project {
       groupId 'org.assertj'
       artifactId 'assertj-core'
       version '3.7.0'
+      scope 'test'
     }
   }
 

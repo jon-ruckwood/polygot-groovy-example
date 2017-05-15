@@ -1,9 +1,11 @@
 # polygot-groovy-example
 
-Simple demonstration of using [Polygot Maven][0] with the Groovy DSL. The most important parts are:
+Simple demonstration of using [Polygot Maven][0] with the Groovy DSL. 
+
+The most important parts are:
 
 * `.mvn/extensions.xml`
-* `pom.xml`
+* `pom.groovy`
 
 Requires Maven 3.3.1 or greater.
 
